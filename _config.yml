@@ -9,9 +9,9 @@ email: steven@workwrite.org
 description: >- # this means to ignore newlines until "baseurl:"
   A blog capturing thoughts and lessons on designing and building software for humans.
 
-domain: "honorablemention.github.io"
-baseurl: "/blog"
-url: "https://honorablemention.github.io"
+domain: "workwrite.org"
+baseurl: ""
+url: "https://workwrite.org"
 github_username:  honorablemention
 
 # Build settings
